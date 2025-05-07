@@ -11,4 +11,12 @@
 
 <p align="center">
 <img src="https://github.com/syaifulkiara/kasir-app/blob/master/hal1.png">
+  <hr>
+<img src="https://github.com/syaifulkiara/kasir-app/blob/master/hal2.png">
+  <hr>
+<img src="https://github.com/syaifulkiara/kasir-app/blob/master/hal3.png">
+  <hr>
+<img src="https://github.com/syaifulkiara/kasir-app/blob/master/hal4.png">
+  <hr>
+<img src="https://github.com/syaifulkiara/kasir-app/blob/master/hal5.png">
 </p>
